@@ -1,5 +1,5 @@
 # Estruturação de Projetos 
-Esse repositório visi demonstrar a estruturação de um projeto voltado para análise de dados, e demonstrar ferramentas ulteis.
+Esse repositório visa demonstrar a estruturação de um projeto voltado para análise de dados, e demonstrar ferramentas ulteis.
 
 # Características
 
